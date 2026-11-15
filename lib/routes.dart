@@ -18,6 +18,8 @@ import 'package:gizmo_store/screens/auth/auth_gate.dart';
 import 'package:gizmo_store/debug/image_debug_screen.dart';
 import 'package:gizmo_store/screens/profile/address_management_screen.dart';
 
+// New commit by amro
+
 class AppRoutes {
   static Route<dynamic> generateRoute(RouteSettings settings) {
     switch (settings.name) {
